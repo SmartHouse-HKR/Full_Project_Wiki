@@ -5,14 +5,31 @@ Here is the main information regarding the architecture and organization of this
 ## Table Of Contents
 
 * [Guidelines and Standards](#Guidelines-and-Standards)
+   * [Contributing on GitHub](#Contributing-on-GitHub)
+   * [Artefact Documents](#Artefact-Documents)
 
 * [Server-Client Architecture](#Server-Client-Architecture)
 
 
-
 ## Guidelines and Standards
 
+### Contributing on GitHub
+
 To make sure we are all on the same page when contributing, please look at our **[CONTRIBUTING.md](https://github.com/SmartHouse-HKR/GUIDELINES/blob/master/CONTRIBUTING.md)** guidelines.
+
+### Artefact Documents
+
+   There will be 1 version of all documents that should be kept updated. 
+   
+   Keeping newer and updated versions of documents offline is highly discouraged.
+   
+   * Naming Convention:
+   
+      `[Document_Type]-[Sub_Group]`
+      
+      E.g `Risk_Document-Unit_Developers`
+      
+      E.g `Design_Document-Free_Choice`
 
 ## Server-Client Architecture.
 
